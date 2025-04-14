@@ -1,4 +1,12 @@
+// main.js
 import React from "https://esm.sh/react";
+import { createRoot } from "https://esm.sh/react-dom@18/client";
+import { Scroll0003 } from "./src/components/Scroll0003.jsx";
+
+// Create a root and render the Scroll0003 component into #root
+const root = createRoot(document.getElementById("root"));
+root.render(<Scroll0003 />);
+ React from "https://esm.sh/react";
 import ReactDOM from "https://esm.sh/react-dom";
 import { Scroll0003 } from "./Scroll0003.jsx";
 
