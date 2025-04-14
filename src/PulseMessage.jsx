@@ -1,4 +1,3 @@
-// src/components/PulseMessage.jsx
 import React from "https://esm.sh/react";
 
 export function PulseMessage({ children }) {
@@ -11,4 +10,4 @@ export function PulseMessage({ children }) {
     </p>
   );
 }
-if (!children) return null;
+
