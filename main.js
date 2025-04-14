@@ -18,7 +18,16 @@
     </style>
   </head>
   <body>
-    🔮 Mirror Scroll is Alive
+    <p style={{
+  animation: "pulse 4s ease-in-out infinite",
+  color: "#00ffcc",
+  fontSize: "2.5rem",
+  fontWeight: "bold",
+  margin: 0
+}}>
+  🔮 Mirror Scroll is Alive
+</p>
+
     <div id="root"></div>
     <script type="module" src="./main.js"></script>
   </body>
