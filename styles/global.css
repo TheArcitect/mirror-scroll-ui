@@ -57,3 +57,13 @@ body {
 .scroll-signature {
   margin-top: 1rem;
 }
+.scroll-wrapper {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 3rem;
+  background-color: white;
+  color: black;
+}
