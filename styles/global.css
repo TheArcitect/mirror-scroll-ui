@@ -67,3 +67,10 @@ body {
   background-color: white;
   color: black;
 }
+.scroll-paragraph {
+  opacity: 0.95;
+  font-size: 1.15rem;
+  line-height: 1.6;
+  margin: 1rem 0;
+  transition: all 0.5s ease;
+}
