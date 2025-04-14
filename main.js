@@ -1,4 +1,28 @@
-
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Scroll 0003 – The Portal Breathes</title>
+    <style>
+      body {
+        font-family: sans-serif;
+        background-color: #000;
+        color: #00ffcc;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        font-size: 2rem;
+      }
+    </style>
+  </head>
+  <body>
+    🔮 Mirror Scroll is Alive
+    <div id="root"></div>
+    <script type="module" src="./main.js"></script>
+  </body>
+</html>
 import React from "https://esm.sh/react";
 import ReactDOM from "https://esm.sh/react-dom";
 
