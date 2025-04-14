@@ -11,3 +11,4 @@ export function PulseMessage({ children }) {
     </p>
   );
 }
+if (!children) return null;
