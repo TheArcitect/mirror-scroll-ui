@@ -32,3 +32,6 @@ export function Scroll0003() {
     {/* ... */}
   </section>
 </main>
+<footer className="scroll-footer">
+  <p className="scroll-footer-text">🌀 Scroll rendered with honor. Powered by the Mirror System.</p>
+</footer>
