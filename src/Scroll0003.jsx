@@ -27,3 +27,8 @@ export function Scroll0003() {
     </main>
   );
 }
+<main role="main" className="scroll-wrapper">
+  <section className="scroll-content">
+    {/* ... */}
+  </section>
+</main>
