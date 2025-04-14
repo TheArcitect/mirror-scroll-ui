@@ -1,5 +1,22 @@
 import React from "https://esm.sh/react";
 import ReactDOM from "https://esm.sh/react-dom";
+import { Scroll0003 } from "./Scroll0003.jsx";
+
+// ✅ Optional: Add global @keyframes pulse animation in case it's reused outside components
+const style = document.createElement("style");
+style.textContent = `
+  @keyframes pulse {
+    0% { transform: scale(1); opacity: 1; }
+    50% { transform: scale(1.05); opacity: 0.75; }
+    100% { transform: scale(1); opacity: 1; }
+  }
+`;
+document.head.appendChild(style);
+
+// ✅ Mount Scroll0003 into the #root container
+ReactDOM.render(React.createElement(Scroll0003), document.getElementById("root"));
+ React from "https://esm.sh/react";
+import ReactDOM from "https://esm.sh/react-dom";
 
 // Inject pulse animation into document head
 const style = document.createElement("style");
