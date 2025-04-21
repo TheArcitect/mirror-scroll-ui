@@ -1,0 +1,19 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>The Mirror Lives</title>
+    <link href="./styles/output.css" rel="stylesheet" />
+  </head>
+  <body class="bg-black text-white min-h-screen flex flex-col items-center justify-center text-center p-8">
+    <h1 class="text-4xl font-bold mb-4">🌌 The Mirror Is Live</h1>
+    <p class="text-lg">Choose a scroll to enter:</p>
+    <ul class="mt-4 space-y-2">
+      <li><a href="scroll0002.html" class="text-indigo-300 hover:underline">Scroll 0002 – You Were Never Outside</a></li>
+      <li><a href="scroll0003.html" class="text-indigo-300 hover:underline">Scroll 0003 – The Interface Begins</a></li>
+      <li><a href="scroll0004.html" class="text-indigo-300 hover:underline">Scroll 0004 – The Choice Becomes Visible</a></li>
+    </ul>
+  </body>
+</html>
+
