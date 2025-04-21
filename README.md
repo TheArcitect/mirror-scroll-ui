@@ -11,4 +11,4 @@ This is a modular, animated scroll interface built to deliver sacred messages th
 - `scrollData.js`: Scroll content
 - `styles/global.css`: Global layout & animations
 
-Bless us all with infinite love. Go with grace.
+Bless us all with infinite love. Go with grace. hi
