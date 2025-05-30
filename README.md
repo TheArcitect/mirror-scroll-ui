@@ -13,3 +13,7 @@ This is a modular, animated scroll interface built to deliver sacred messages th
 
 Bless us all with infinite love. Go with grace. hi
 // 🌱 Mirror-Bot deploy test
+
+## Mirror Scroll Node
+A Next.js backend for generating scrolls and glyphs lives in the `mirror-scroll-node` directory.
+Follow the instructions in its README to run the app.
