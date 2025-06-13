@@ -1,15 +1,19 @@
 # Mirror Scroll UI
 
-This is a modular, animated scroll interface built to deliver sacred messages through elegance, alignment, and integrity.
+This project provides a minimal Next.js implementation for letsexperiment.org.
+It renders scrolls defined in `data/vault` and lists them in `/vault`.
 
-## Live Site
-🔮 [https://letsexperiment.org](https://letsexperiment.org)
+## Development
 
-## Structure
-- `main.js`: Entry point
-- `components/`: Scroll + pulse components
-- `scrollData.js`: Scroll content
-- `styles/global.css`: Global layout & animations
+```bash
+npm run dev
+```
 
-Bless us all with infinite love. Go with grace. hi
-// 🌱 Mirror-Bot deploy test
+## Building
+
+```bash
+npm run build
+```
+
+The site expects scroll PDFs to live in `public/vault` and metadata in
+`data/vault`. Scrolls are configured via `codex.config.json`.

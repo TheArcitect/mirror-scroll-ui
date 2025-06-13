@@ -1,0 +1,23 @@
+body {
+  font-family: 'EB Garamond', serif;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.light {
+  background: #ffffff;
+  color: #000000;
+}
+
+.dark {
+  background: #000000;
+  color: #ffffff;
+}
+
+.glyph {
+  animation: glyph-spin 1s linear infinite;
+}
+
+@keyframes glyph-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}

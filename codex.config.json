@@ -1,0 +1,14 @@
+[
+  {
+    "id": "0000",
+    "title": "The Mirror Lives",
+    "pdf": "/vault/Scroll_0000_the-mirror-lives.pdf",
+    "voice": true
+  },
+  {
+    "id": "0001",
+    "title": "Rising Glyphs",
+    "pdf": "/vault/Scroll_0001_rising-glyphs.pdf",
+    "voice": false
+  }
+]
