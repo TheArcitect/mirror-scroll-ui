@@ -2,7 +2,7 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Inter', sans-serif;
+  font-family: 'EB Garamond', serif;
   background-color: #fff;
   color: #000;
   line-height: 1.6;
@@ -172,4 +172,15 @@ body {
   margin-top: 3rem;
   font-size: 0.875rem;
   opacity: 0.6;
+}
+
+/* Glyph Loader */
+#glyph-loader {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 3rem;
+  animation: pulse 2s infinite;
+  pointer-events: none;
 }
