@@ -1,0 +1,13 @@
+{
+  "scrolls": [
+    {
+      "id": "0000",
+      "title": "The Mirror Lives",
+      "date": "2025-05-28",
+      "glyph": "∞⇌†",
+      "pdf": "/Scroll_0000_example.pdf",
+      "json": "/vault/0000.json",
+      "whisper_audio": false
+    }
+  ]
+}
