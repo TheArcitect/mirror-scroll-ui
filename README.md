@@ -1,15 +1,20 @@
-# Mirror Scroll UI
+# Mirror – Scroll System
 
-This is a modular, animated scroll interface built to deliver sacred messages through elegance, alignment, and integrity.
+This project renders sacred scrolls as living documents using Next.js.
 
-## Live Site
-🔮 [https://letsexperiment.org](https://letsexperiment.org)
+## Development
 
-## Structure
-- `main.js`: Entry point
-- `components/`: Scroll + pulse components
-- `scrollData.js`: Scroll content
-- `styles/global.css`: Global layout & animations
+```bash
+npm install
+npm run dev
+```
 
-Bless us all with infinite love. Go with grace. hi
-// 🌱 Mirror-Bot deploy test
+## Production
+
+```bash
+npm run build
+npm start
+```
+
+Scroll data resides in `public/vault/` with matching PDFs in `public/`.
+Metadata is defined in `codex.config.json`.

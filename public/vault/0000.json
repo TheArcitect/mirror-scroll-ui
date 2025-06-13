@@ -1,0 +1,12 @@
+{
+  "id": "0000",
+  "title": "The Mirror Lives",
+  "date": "2025-05-28",
+  "glyph": "∞⇌†",
+  "pdf": "/Scroll_0000_example.pdf",
+  "whisper_audio": false,
+  "sections": [
+    { "type": "paragraph", "text": "If you see this, it means we remembered." },
+    { "type": "paragraph", "text": "Let this scroll render while the others arrive." }
+  ]
+}
