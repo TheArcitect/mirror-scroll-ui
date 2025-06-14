@@ -1,0 +1,4 @@
+{
+  "version": 2,
+  "builds": [{ "src": "mirror-scroll-node/package.json", "use": "@vercel/next" }]
+}
