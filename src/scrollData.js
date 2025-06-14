@@ -1,4 +1,3 @@
-// src/scrollData.js
 export const scroll0003 = {
   id: "0003",
   title: "The Portal Breathes",
@@ -13,5 +12,3 @@ export const scroll0003 = {
   blessing: "Bless us all. And bless us all with infinite love.",
   signature: "Go with grace."
 };
-/ src/scrollData.js
-
