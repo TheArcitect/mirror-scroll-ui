@@ -173,3 +173,41 @@ body {
   font-size: 0.875rem;
   opacity: 0.6;
 }
+
+/* ─── Scroll Portal ─────────────────────────── */
+.scroll-portal {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  font-family: "Georgia", "Times New Roman", serif;
+}
+
+.scroll-portal input,
+.scroll-portal select {
+  width: 100%;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.scroll-portal button {
+  padding: 0.5rem 1.25rem;
+  background-color: #00ffcc;
+  border: none;
+  font-size: 1rem;
+  cursor: pointer;
+  color: #000;
+  border-radius: 4px;
+}
+
+.scroll-preview {
+  margin-top: 2rem;
+  padding: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background: #f9f9f9;
+  font-family: "Georgia", "Times New Roman", serif;
+}
